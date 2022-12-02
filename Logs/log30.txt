@@ -1,0 +1,30 @@
+2022-10-13 18:01:48.394207 -- Posible ataque REPPLY a cuenta 5
+2022-10-13 18:01:48.399158 -- Transferencia realizada desde la cuenta 9
+2022-10-13 18:01:48.411162 -- Posible ataque REPPLY a cuenta 1
+2022-10-13 18:01:48.414119 -- Posible ataque REPPLY a cuenta 9
+2022-10-13 18:01:48.418108 -- Posible ataque MAN IN THE MIDDLE a cuenta 1
+2022-10-13 18:01:48.431134 -- Transferencia realizada desde la cuenta 0
+2022-10-13 18:01:48.444066 -- Transferencia realizada desde la cuenta 6
+2022-10-13 18:01:48.459028 -- Posible ataque MAN IN THE MIDDLE a cuenta 2
+2022-10-13 18:01:48.471028 -- Posible ataque REPPLY a cuenta 8
+2022-10-13 18:01:48.476980 -- Posible ataque MAN IN THE MIDDLE a cuenta 5
+2022-10-13 18:01:48.490943 -- Transferencia realizada desde la cuenta 6
+2022-10-13 18:01:48.502950 -- Transferencia realizada desde la cuenta 4
+2022-10-13 18:01:48.517275 -- Transferencia realizada desde la cuenta 0
+2022-10-13 18:01:48.531492 -- Transferencia realizada desde la cuenta 4
+2022-10-13 18:01:48.546233 -- Posible ataque MAN IN THE MIDDLE a cuenta 9
+2022-10-13 18:01:48.560195 -- Transferencia realizada desde la cuenta 0
+2022-10-13 18:01:48.573161 -- Posible ataque MAN IN THE MIDDLE a cuenta 6
+2022-10-13 18:01:48.585129 -- Posible ataque REPPLY a cuenta 1
+2022-10-13 18:01:48.589121 -- Posible ataque REPPLY a cuenta 1
+2022-10-13 18:01:48.593126 -- Transferencia realizada desde la cuenta 9
+2022-10-13 18:01:48.605101 -- Transferencia realizada desde la cuenta 3
+2022-10-13 18:01:48.618064 -- Transferencia realizada desde la cuenta 8
+2022-10-13 18:01:48.630818 -- Transferencia realizada desde la cuenta 8
+2022-10-13 18:01:48.643787 -- Transferencia realizada desde la cuenta 4
+2022-10-13 18:01:48.658746 -- Transferencia realizada desde la cuenta 0
+2022-10-13 18:01:48.671210 -- Posible ataque MAN IN THE MIDDLE a cuenta 9
+2022-10-13 18:01:48.683179 -- Transferencia realizada desde la cuenta 5
+2022-10-13 18:01:48.695147 -- Posible ataque REPPLY a cuenta 0
+2022-10-13 18:01:48.699137 -- Posible ataque REPPLY a cuenta 0
+2022-10-13 18:01:48.702178 -- Posible ataque REPPLY a cuenta 5

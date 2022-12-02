@@ -1,0 +1,6 @@
+
+2022-10-13 17:59:27.016244 -- Posible ataque MAN IN THE MIDDLE a cuenta 7
+2022-10-13 17:59:27.029213 -- Transferencia realizada desde la cuenta 8
+2022-10-13 17:59:27.055142 -- Transferencia realizada desde la cuenta 5
+2022-10-13 17:59:27.070103 -- Posible ataque MAN IN THE MIDDLE a cuenta 0
+2022-10-13 17:59:27.082070 -- Transferencia realizada desde la cuenta 5

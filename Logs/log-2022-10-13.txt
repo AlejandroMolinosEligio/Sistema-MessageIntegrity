@@ -1,0 +1,24 @@
+##########################################################################
+	El porcentaje sin fallos de integridad es 55.0%
+##########################################################################
+
+2022-10-10 12:03:52.416319 -- Transferencia realizada desde la cuenta 6
+2022-10-10 12:03:52.433320 -- Transferencia realizada desde la cuenta 5
+2022-10-10 12:03:52.448954 -- Transferencia realizada desde la cuenta 0
+2022-10-10 12:03:52.464581 -- Posible ataque MAN IN THE MIDDLE a cuenta 5
+2022-10-10 12:03:52.480207 -- Posible ataque MAN IN THE MIDDLE a cuenta 3
+2022-10-10 12:03:52.495833 -- Transferencia realizada desde la cuenta 8
+2022-10-10 12:03:52.511458 -- Posible ataque REPPLY a cuenta 9
+2022-10-10 12:03:52.527101 -- Transferencia realizada desde la cuenta 4
+2022-10-10 12:03:52.542729 -- Posible ataque MAN IN THE MIDDLE a cuenta 4
+2022-10-10 12:03:52.558367 -- Posible ataque MAN IN THE MIDDLE a cuenta 7
+2022-10-10 12:03:52.573964 -- Posible ataque REPPLY a cuenta 3
+2022-10-10 12:03:52.573964 -- Transferencia realizada desde la cuenta 1
+2022-10-10 12:03:52.605219 -- Posible ataque REPPLY a cuenta 9
+2022-10-10 12:03:52.605219 -- Posible ataque REPPLY a cuenta 4
+2022-10-10 12:03:52.620844 -- Transferencia realizada desde la cuenta 2
+2022-10-10 12:03:52.636495 -- Transferencia realizada desde la cuenta 4
+2022-10-10 12:03:52.652117 -- Transferencia realizada desde la cuenta 0
+2022-10-10 12:03:52.667739 -- Posible ataque REPPLY a cuenta 5
+2022-10-10 12:03:52.683347 -- Transferencia realizada desde la cuenta 5
+2022-10-10 12:03:52.698973 -- Transferencia realizada desde la cuenta 5

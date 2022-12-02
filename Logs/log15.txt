@@ -1,0 +1,15 @@
+2022-10-13 18:00:45.293271 -- Transferencia realizada desde la cuenta 8
+2022-10-13 18:00:45.308230 -- Transferencia realizada desde la cuenta 3
+2022-10-13 18:00:45.320198 -- Transferencia realizada desde la cuenta 8
+2022-10-13 18:00:45.333008 -- Posible ataque REPPLY a cuenta 2
+2022-10-13 18:00:45.337965 -- Posible ataque MAN IN THE MIDDLE a cuenta 1
+2022-10-13 18:00:45.349965 -- Posible ataque REPPLY a cuenta 7
+2022-10-13 18:00:45.354920 -- Transferencia realizada desde la cuenta 4
+2022-10-13 18:00:45.369880 -- Posible ataque MAN IN THE MIDDLE a cuenta 6
+2022-10-13 18:00:45.382845 -- Posible ataque MAN IN THE MIDDLE a cuenta 5
+2022-10-13 18:00:45.395810 -- Transferencia realizada desde la cuenta 5
+2022-10-13 18:00:45.408814 -- Transferencia realizada desde la cuenta 1
+2022-10-13 18:00:45.422761 -- Transferencia realizada desde la cuenta 9
+2022-10-13 18:00:45.434730 -- Transferencia realizada desde la cuenta 1
+2022-10-13 18:00:45.446698 -- Transferencia realizada desde la cuenta 6
+2022-10-13 18:00:45.459003 -- Transferencia realizada desde la cuenta 0
